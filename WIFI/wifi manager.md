@@ -1,7 +1,7 @@
 
 Wi-Fi Manager Web Server
 
-- Initially, Raspberry Pi Pico W will be set up as an Access Point when it starts.
+- Initially, Raspberry Pi Pico W will be set up as an Access Point when it starts, or when the connection to the last connected network fails.
 - Next, to connect to your Raspberry Pi Pico W which acts as an AP, we will go to the IP address 192.164.4.1.
 - A web page containing available networks will be shown to choose the one to configure.
 - The provided network credentials will get saved in Raspberry Pi Pico W.
